@@ -1,1 +1,1 @@
-ubuntu/squid:latest
+ghcr.io/bentoml/openllm:latest
