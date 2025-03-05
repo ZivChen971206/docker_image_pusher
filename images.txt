@@ -1,1 +1,1 @@
-ghcr.io/bentoml/openllm:latest
+python:3.12-slim-bookworm
